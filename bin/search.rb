@@ -1,0 +1,3 @@
+require "rbsearch"
+
+Rbsearch::foo
